@@ -1,0 +1,11 @@
+articles.csv
+notebook1.ipynb
+notebook2.ipynb
+data_final/
+2sentences_media.txt
+__pycache__
+tokenizer.json
+model.h5
+best_model.hdf5
+saved_models/
+history.csv
